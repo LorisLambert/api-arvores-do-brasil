@@ -1,0 +1,15 @@
+{
+  "name": "api-arvores-do-brasil",
+  "version": "1.0.0",
+  "description": "Queremos ser a maior e mais completa API de informações sobre as árvores nativas brasileiras.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
